@@ -1,0 +1,30 @@
+<html>
+<head>
+	<title>PHP CRUD PDO OOP</title>
+</head>
+<body>
+<a href="add_customer.php">Add Customers</a>
+	<table>
+	<thead>
+	<tr>
+		<th></th>
+		<th></th>
+		<th></th>
+		<th></th>
+		<th></th>
+		<th></th>
+    </tr>
+	</thead>
+	<tbody>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	</tbody>
+	</table>
+</body>
+</html>
