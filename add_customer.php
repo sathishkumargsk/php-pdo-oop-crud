@@ -7,6 +7,7 @@
 		<link rel="stylesheet" href="css/bootstrap.min.css">
 	</head>
 	<body>
+
 		<div class="container">
 		<div classs="row ">
 		<h2>Add customer</h2>
@@ -19,6 +20,10 @@
 		<div class="form-group">
 		<label for="email">Email:</label>
 		<input type="email" class="form-control" required>
+
+		<div>
+		<input type="text">
+
 		</div>
 
 		<div class="form-group">
